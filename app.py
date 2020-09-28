@@ -7,7 +7,7 @@ Project Name: Online QRCode Generator
 """
 import streamlit as st
 from PIL import Image
-
+import qrcode
 import streamlit.components.v1 as components
 
 html_code = """
@@ -49,7 +49,7 @@ back = st.selectbox("Select the background color", colors_list)
 
 
 # Create a QR Code
-import qrcode
+
 if(st.button("Generate QR Code")):
     qr = qrcode.QRCode(
         box_size=box_size,
