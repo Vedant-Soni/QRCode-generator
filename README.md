@@ -1,3 +1,11 @@
 # QRCode-generator
+This project is live web app to generate online qrcode, You can make qr code of your data according to your preferences.
 
-## Motivaton
+## Build with
+----->Python
+### For cloud deployment
+-----> Streamlit,Heroku
+## Final Output
+-----> https://onlineqrcode.herokuapp.com/
+## Screenshot
+
