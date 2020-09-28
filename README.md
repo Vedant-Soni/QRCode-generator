@@ -2,9 +2,9 @@
 This project is live web app to generate online qrcode, You can make qr code of your data according to your preferences.
 
 ## Build with
------>Python
+-----> Python
 ### For cloud deployment
------> Streamlit,Heroku
+-----> Heroku
 ## Final Output
 -----> https://onlineqrcode.herokuapp.com/
 ## Screenshot
