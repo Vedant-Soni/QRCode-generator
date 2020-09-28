@@ -1,1 +1,3 @@
 # QRCode-generator
+
+## Motivaton
