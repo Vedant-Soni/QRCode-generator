@@ -1,8 +1,9 @@
 # QRCode-generator
 This project is live web app to generate online qrcode, You can make qr code of your data according to your preferences.
-
+## Creator
+-----> Vedant Soni
 ## Build with
------> Python
+-----> Python, Streamlit
 ### For cloud deployment
 -----> Heroku
 ## Final Output
